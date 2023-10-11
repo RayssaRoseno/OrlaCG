@@ -1,4 +1,4 @@
 # OrlaCG
 
 
-Modelagens 3D criado pelo Blender.
+Modelagens 3D criado no Blender.
